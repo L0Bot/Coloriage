@@ -1,5 +1,3 @@
-
-
 const app = {
 
     styles: [
@@ -71,7 +69,7 @@ const app = {
 
     // méthodes de création
 
-    // BONUS : créer la palette de couleurs
+    // Créer la palette de couleurs
     createPalette: function(){
         // on crée l'élément qui récupère la palette
         app.paletteElem = document.createElement('div');
